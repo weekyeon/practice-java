@@ -1,5 +1,5 @@
 *`Latest update: 2022-12-20`*
-# 📖 Algorithm Java
+# 📖 Practice Java
 * Java를 냅다 부수기 위해 만든 Repository!👊
 * `프로그래머스/../..` 레벨의 디렉토리는 [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)에 의해 자동 생성된다.
 * Java 문제 연습장이 아니라면 대부분 [Notion](https://weekyeon.notion.site/JAVA-196d52bc8ffb4a249e1f1f989a4605a8)에 기록하고 있어 쓸 일이 없겠지만, 일단은 **모든** Java 공부를 저장하는 공간이라 생각한다.
